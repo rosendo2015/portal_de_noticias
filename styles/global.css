@@ -12,7 +12,12 @@
   --text-color-secondary: #cbd5e1;
 }
 body {
-  font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
+  font-family: 'Work Sans', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color-primary);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
