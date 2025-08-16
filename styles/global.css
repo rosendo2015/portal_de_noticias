@@ -46,7 +46,7 @@ img {
   margin-inline: auto;
 }
 main {
-  margin-top: 2.5rem;
+  margin-block: 2.5rem;
   row-gap: 80px;
   column-gap: 2rem;
 

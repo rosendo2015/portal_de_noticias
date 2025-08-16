@@ -110,7 +110,10 @@ section header {
     aspect-ratio: 1/1;
   }
   h3 {
-    margin-lock: 0.5rem 0.25rem;
+    margin-block: 0.5rem 0.25rem;
+  }
+  article {
+    margin-bottom: 2rem;
   }
 }
 aside {
@@ -126,5 +129,8 @@ aside {
   }
   h3 {
     margin-top: 0.5rem;
+  }
+  article {
+    margin-bottom: 0.5rem;
   }
 }
