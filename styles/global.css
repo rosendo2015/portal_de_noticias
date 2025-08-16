@@ -48,8 +48,9 @@ img {
 main {
   margin-top: 2.5rem;
   row-gap: 80px;
-
   column-gap: 2rem;
+
+  grid-template-columns: 2fr, 1.3fr;
 
   grid-template-areas:
     'featured featured'
