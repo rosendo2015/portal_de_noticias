@@ -25,3 +25,11 @@
 .text-sm {
   font: var(text-sm);
 }
+.only-desktop {
+  display: none;
+}
+@media screen and (min-width: 1440px) {
+  .only-desktop {
+    display: block;
+  }
+}
