@@ -2,6 +2,12 @@
 
 ![preview](.github/preview.png)
 
+# Desafio Portal de notícias com design responsivo.
+
+![preview](.github/preview_responsive.png)
+
+- Responsividade: é um conceito de desenvolvimento Web focado em fazer a experiência e comportamento de websites mais otimizada para todos os dispositivos, desde o desktop até um dispositivo móvel.
+
 > Trilha FullStack - Projeto feito para cumprir desafio TECH NEWS - PORTAL DE NOTICIAS - Rocketseat :rocket:.
 
 ## :hammer_and_wrench: Tecnologias
